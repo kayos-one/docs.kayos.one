@@ -1,6 +1,4 @@
 ---
-title: "Introduction"
-description: "Docs intro"
+title: "Coming Soon"
+description: "Kayos One Documentation Portal"
 ---
-
-**Coming Soon**

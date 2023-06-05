@@ -5,7 +5,6 @@
 	--font-mono: 'IBM Plex Mono', Consolas, 'Andale Mono WT', 'Andale Mono', 'Lucida Console',
 		'Lucida Sans Typewriter', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Liberation Mono',
 		'Nimbus Mono L', Monaco, 'Courier New', Courier, monospace;
-	--main-bg-color: black
 
 	/*
    * Variables with --color-base prefix define
@@ -59,6 +58,7 @@
 
 :root {
 	color-scheme: light;
+	--main-bg-color: black
 	--theme-accent: hsla(var(--color-blue), 1);
 	--theme-text-accent: hsla(var(--color-blue), 1);
 	--theme-accent-opacity: 0.15;

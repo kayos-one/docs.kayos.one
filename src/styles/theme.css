@@ -58,6 +58,7 @@
 
 :root {
 	color-scheme: light;
+	--color-bg: #000000;
 	--theme-accent: rgb(81, 42, 136);
 	--theme-text-accent: rgb(81, 42, 136);
 	--theme-accent-opacity: 0.15;

@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'Documentation',
-	description: 'Your website description.',
+	title: 'Kayos One Documentation',
+	description: 'Documentation for Kayos One products and services.',
 	defaultLanguage: 'en-us',
 } as const;
 

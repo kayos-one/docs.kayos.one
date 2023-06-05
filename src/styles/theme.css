@@ -70,7 +70,7 @@
 	--theme-bg: #000000;
 	--theme-bg-hover: hsla(var(--color-gray-95), 1);
 	--theme-bg-offset: hsla(var(--color-gray-90), 1);
-	--theme-bg-accent: hsla(var(--color-blue), var(--theme-accent-opacity));
+	--theme-bg-accent: #000000;
 	--theme-code-inline-bg: hsla(var(--color-gray-95), 1);
 	--theme-code-inline-text: var(--theme-text);
 	--theme-code-bg: rgba(100, 99, 99, 0.863);
@@ -78,7 +78,7 @@
 	--theme-navbar-bg: #000000;
 	--theme-navbar-height: 6rem;
 	--theme-selection-color: rgb(81, 42, 136);
-	--theme-selection-bg: hsla(var(--color-blue), var(--theme-accent-opacity));
+	--theme-selection-bg: #000000;
 }
 
 body {

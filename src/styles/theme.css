@@ -122,5 +122,5 @@ body {
 
 ::selection {
 	color: var(--theme-selection-color);
-	background-color: var(--theme-selection-bg);
+	background-color: #000000;
 }

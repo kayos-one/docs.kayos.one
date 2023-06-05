@@ -92,7 +92,7 @@ body {
 	--theme-accent: rgb(81, 42, 136);
 	--theme-text-accent: rgb(81, 42, 136);
 	--theme-divider: hsla(var(--color-gray-10), 1);
-	--theme-text: rgba(100, 99, 99, 0.863);
+	--theme-text: hsla(var(--color-gray-90), 1);
 	--theme-text-light: hsla(var(--color-gray-80), 1);
 
 	/* @@@: not used anywhere */
